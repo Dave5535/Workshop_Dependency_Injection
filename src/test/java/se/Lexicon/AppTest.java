@@ -1,4 +1,4 @@
-package se.Lecicon;
+package se.Lexicon;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
